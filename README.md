@@ -12,8 +12,8 @@ A curated list of awesome frameworks, libraries and software for IOT/BigData/AI/
 ### MLOps/ModelOps
 
 - [awesome-production-machine-learning](https://github.com/ethicalml/awesome-production-machine-learning)
-- [awesome-mlops](https://github.com/kelvins/awesome-mlops)
-- [awesome-mlops](https://github.com/visenger/awesome-mlops)
+- [awesome-mlops(kelvins)](https://github.com/kelvins/awesome-mlops)
+- [awesome-mlops(visenger)](https://github.com/visenger/awesome-mlops)
 
 ### ML
 
