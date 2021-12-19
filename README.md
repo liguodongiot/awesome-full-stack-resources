@@ -15,8 +15,9 @@ A curated list of awesome frameworks, libraries and software for IOT/BigData/AI/
 - [awesome-mlops(kelvins)](https://github.com/kelvins/awesome-mlops)
 - [awesome-mlops(visenger)](https://github.com/visenger/awesome-mlops)
 
-### ML
+### ML/DL
 
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 
@@ -29,14 +30,21 @@ A curated list of awesome frameworks, libraries and software for IOT/BigData/AI/
 
 ## 物联网（IOT）
 
+- [awesome-iot(phodal)](https://github.com/phodal/awesome-iot)
+- [awesome-iot(HQarroum)](https://github.com/HQarroum/awesome-iot)
+- [awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks)
+- [IoT-For-Beginners(microsoft)](https://github.com/microsoft/IoT-For-Beginners)
 
 ## 编程语言
 
 ### Java
 
+- [awesome-java](https://github.com/akullpp/awesome-java)
 
 ### Python
 
+- [awesome-python](https://github.com/vinta/awesome-python)
+- [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
 
 
 ## 产品
@@ -53,6 +61,8 @@ A curated list of awesome frameworks, libraries and software for IOT/BigData/AI/
 
 
 ## 行业白皮书
+
+
 
 
 
