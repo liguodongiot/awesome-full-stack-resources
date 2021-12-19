@@ -46,6 +46,8 @@ A curated list of awesome frameworks, libraries and software for IOT/BigData/AI/
 - [awesome-python](https://github.com/vinta/awesome-python)
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
 
+#### 书籍
+- [awesome-python-books](https://github.com/jobbole/awesome-python-books)
 
 ## 产品
 
